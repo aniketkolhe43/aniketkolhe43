@@ -21,7 +21,7 @@
 <a href="https://instagram.com/aniket_a30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_a30" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" margin-top="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkolhe43&show_icons=true&locale=en&layout=compact" alt="aniketkolhe43" /></p>
+<p><img align="left" margin-top="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkolhe43&show_icons=true&locale=en&layout=compact" alt="aniketkolhe43" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketkolhe43&show_icons=true&locale=en" alt="aniketkolhe43" /></p>
 
